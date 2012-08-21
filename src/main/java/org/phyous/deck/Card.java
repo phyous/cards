@@ -1,7 +1,7 @@
 package org.phyous.deck;
 
 /**
- * Class representing a playing deck.
+ * Class representing a playing card.
  * User: pyoussef
  * Date: 8/20/12
  * Time: 4:10 PM
@@ -13,8 +13,8 @@ public class Card {
     /**
      * Constructor for Card class
      *
-     * @param suit   suit of the deck to create
-     * @param number number of the deck to create
+     * @param suit   suit of the card to create
+     * @param number number of the card to create
      */
     public Card(Suit suit, Number number) {
         cardSuit = suit;
@@ -22,16 +22,16 @@ public class Card {
     }
 
     /**
-     * Accessor for the suit of a deck.
+     * Accessor for the suit of a card.
      *
-     * @return the deck's suit
+     * @return the card's suit
      */
     public Suit getSuit() {
         return cardSuit;
     }
 
     /**
-     * Accessor for the number of a deck.
+     * Accessor for the number of a card.
      *
      * @return the cards number
      */

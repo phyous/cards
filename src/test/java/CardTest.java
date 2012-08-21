@@ -7,10 +7,10 @@ import static junit.framework.Assert.assertFalse;
 import static junit.framework.Assert.assertTrue;
 
 /**
+* Tests for the Card class
 * User: pyoussef
 * Date: 8/20/12
 * Time: 4:28 PM
-* To change this template use File | Settings | File Templates.
 */
 public class CardTest {
     private Card c1;

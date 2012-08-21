@@ -1,7 +1,7 @@
 package org.phyous.deck;
 
 /**
- * Numbers possible on a deck.
+ * Numbers possible on a card.
  * User: pyoussef
  * Date: 8/20/12
  * Time: 4:14 PM

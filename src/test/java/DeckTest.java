@@ -9,7 +9,7 @@ import java.util.HashSet;
 import static org.junit.Assert.assertTrue;
 
 /**
-* Created with IntelliJ IDEA.
+* Tests for the Deck class
 * User: pyoussef
 * Date: 8/20/12
 * Time: 6:27 PM

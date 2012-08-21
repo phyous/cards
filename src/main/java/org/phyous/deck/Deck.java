@@ -66,11 +66,11 @@ public class Deck {
     }
 
     /**
-     * Get deck at a given index, but do not remove it. If there is no deck at that index, return null.
+     * Get card at a given index, but do not remove it. If there is no card at that index, return null.
      * Required to allow array type access through AbstractList class.
      *
      * @param index position to
-     * @return deck at given index
+     * @return card at given index
      */
     public Card peek(int index) {
         read.lock();
