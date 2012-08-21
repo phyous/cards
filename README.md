@@ -3,9 +3,8 @@ Cards - A card deck simulator
 
 The following code can be used to represent a threadsafe deck in java.
 
-To run tests:
+To run tests (maven required: http://maven.apache.org/download.html):
 > mvn test
-(maven required: http://maven.apache.org/download.html)
 
 Ex:
 ```java
@@ -37,8 +36,3 @@ FIVE-DIAMONDS
 FIVE-CLUBS
 Any good? :)
 ```
-=======
-cards
-=====
-
-A card deck simulator
